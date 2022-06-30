@@ -1,12 +1,12 @@
 # Data Lake Proof of Concept 
-This repository contains the materials to be used in a saga of medium articles detailing how to build a PoC for a Data Lake. If you are an expert in AWS or aren't that familiar with it, there's something you can learn with this project. There is a document with a more detailed guide in this repository so you can follow along. I recommend attempting to do it without the detailed guide and finding ways to get it done, but it is available if it is required.  The links for the articles are: 
+This repository contains the materials to be used, in what we call,  “a saga of medium articles” , detailing how to build a PoC for a Data Lake. Either If you are an expert in AWS or if you aren't that familiar with it, there's something you can learn with this project. There is a document with a more detailed guide in this repository so you can follow along. I recommend attempting to do it without the detailed guide and finding ways to get it done but the instructions will always be available in case you need them.  The links for the articles are: 
 
 - Article #1: Lorem ipsum dolor sit - www.nicasource.com 
 - Article #2: Lorem ipsum dolor sit - www.nicasource.com 
 - Article #3: Lorem ipsum dolor sit - www.nicasource.com 
 
 # AWS Services Pricing
-If you are curious about the pricing for this project, here you can see details on the free tier on each service we are using. The total amount (if done correctly) should be less than 1$.
+If you are curious about the pricing for this project, you can see details on the free tier on each service we are using. The total amount (if recommendations are followed correctly) should be less than US$1.
 
 ## Amazon Relational Database Service (RDS)
 **12 MONTHS FREE**
@@ -14,6 +14,8 @@ AWS helps new customers get started for free. Each calendar month, the Amazon RD
 750 hours per month of db.t2.micro, db.t3.micro, and db.t4g.micro database usage (applicable database engines)
 20 GB of general purpose (SSD) database storage
 20 GB of storage for database backups and database snapshots
+
+
 
 ## AWS Lambda
 **ALWAYS FREE**
