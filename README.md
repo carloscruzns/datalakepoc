@@ -1,7 +1,7 @@
 # Data Lake Proof of Concept 
 This repository contains the materials to be used, in what we call,  “a saga of medium articles” , detailing how to build a PoC for a Data Lake. Either If you are an expert in AWS or if you aren't that familiar with it, there's something you can learn with this project. There is a document with a more detailed guide in this repository so you can follow along. I recommend attempting to do it without the detailed guide and finding ways to get it done but the instructions will always be available in case you need them.  The links for the articles are: 
 
-- Article #1: Lorem ipsum dolor sit - www.nicasource.com 
+- Article #1: Getting started with Data Lakes in AWS - https://medium.com/nicasource/getting-started-with-data-lakes-in-aws-10ec55d7d758
 - Article #2: Lorem ipsum dolor sit - www.nicasource.com 
 - Article #3: Lorem ipsum dolor sit - www.nicasource.com 
 
