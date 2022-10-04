@@ -2,8 +2,8 @@
 This repository contains the materials to be used, in what we call,  “a saga of medium articles” , detailing how to build a PoC for a Data Lake. Either If you are an expert in AWS or if you aren't that familiar with it, there's something you can learn with this project. There is a document with a more detailed guide in this repository so you can follow along. I recommend attempting to do it without the detailed guide and finding ways to get it done but the instructions will always be available in case you need them.  The links for the articles are: 
 
 - Article #1: Getting started with Data Lakes in AWS - https://medium.com/nicasource/getting-started-with-data-lakes-in-aws-10ec55d7d758
-- Article #2: Lorem ipsum dolor sit - www.nicasource.com 
-- Article #3: Lorem ipsum dolor sit - www.nicasource.com 
+- Article #2: Data Processing in AWS - https://medium.com/nicasource/data-processing-in-aws-43b0bf294b2e
+- Article #3: Creating interactive dashboards in AWS - https://medium.com/nicasource/creating-interactive-dashboards-in-aws-39d430f0bda7
 
 # AWS Services Pricing
 If you are curious about the pricing for this project, you can see details on the free tier on each service we are using. The total amount (if recommendations are followed correctly) should be less than US$1.
